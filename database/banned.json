@@ -1,0 +1,40 @@
+banned.json
+
+{
+"mods": [
+{ "name": "InvMove" },
+{ "name": "GoProne" },
+{ "name": "StepUp Mod" },
+{ "name": "Spawner Location" },
+{ "name": "DiamondSim" },
+{ "name": "InventoryProfilesNext" },
+{ "name": "Zergatul.cheatutils" },
+{ "name": "AutoAttack" },
+{ "name": "TriggerBot" },
+{ "name": "hitbox" },
+{ "name": "NoClipFlyMod" },
+{ "name": "AimAssistance" },
+{ "name": "Chest Locator" },
+{ "name": "FreeCam" },
+{ "name": "Slippery Mod" },
+{ "name": "X-ray Mod" },
+{ "name": "Launcher Feather" },
+{ "name": "AutoTotem" },
+{ "name": "Baritone" },
+{ "name": "ReplayMod" },
+{ "name": "FlashBack" },
+{ "name": "ChestStealer" },
+{ "name": "MobHealthBar" },
+{ "name": "HealthBarPlus" },
+{ "name": "BetterPvP" },
+{ "name": "ChunkAnimator" },
+{ "name": "InventoryTotem" },
+{ "name": "Schematica" },
+{ "name": "Litematica" },
+{ "name": "TopkaAutoBuy" },
+{ "name": "XorekAuto" },
+{ "name": "Xray" },
+{ "name": "MiniMap" }
+],
+"hashes": []
+}
