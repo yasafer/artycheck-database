@@ -1,4 +1,38 @@
 {
-    "mods": [],
-    "hashes": []
-  }
+  "mods": [
+    "fabric-api",
+    "cloth-config",
+    "modmenu",
+    "sodium",
+    "lithium",
+    "indium"
+  ],
+
+  "visuals": [
+    "PulseVisual",
+    "LuminarVisual",
+    "FeverVisual",
+    "HappyVisual",
+    "DarknessVisual",
+    "TopkaVisual",
+    "AbstractVisual",
+    "ZetaVisual",
+    "SacuraVisual",
+    "SoupAPI",
+    "SelectVisuals",
+    "ParadoxVisuals",
+    "WarpVisuals",
+    "KastrixVisuals",
+    "SimpleVisuals",
+    "AxolotlClient",
+    "PrimeVisuals",
+    "phantom visual",
+    "AlphaVisuals",
+    "Misteria",
+    "Rival",
+    "Linken Visuals",
+    "Cat Visuals"
+  ],
+
+  "hashes": []
+}
