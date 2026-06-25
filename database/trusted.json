@@ -79,14 +79,18 @@
     "Misteria",
     "Rival",
     "Linken Visuals",
-    "Cat Visuals"
+    "Cat Visuals",
+    "Fabric API",
+    "macrokeybinds",
+    "ArtyStaff",
+    "chattools"
   ],
   "hashes": [
     {
       "sha256": "dc0cdeff7677c1fbd8189f53e013a0e42053e30bc40c3270c00f0bbfecda4b80",
       "name": "Mytheria",
       "modId": "Mytheria",
-      "reason": "Добавлено администратором"
+      "reason": "Чистый мод"
     }
   ]
 }
