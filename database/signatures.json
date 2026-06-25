@@ -29,9 +29,6 @@
     ".cH()",
     ".cD(",
     "isKeyDown",
-    "KeyBinding",
-    "GLFW_KEY_",
-    "Reach",
-    "Velocity"
+    "GLFW_KEY_"
   ]
 }
