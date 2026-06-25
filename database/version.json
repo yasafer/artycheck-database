@@ -1,9 +1,3 @@
 {
-  "version": 10,
-  "updatedAt": "2026-06-25T07:45:42.388Z",
-  "files": {
-    "banned.json": "14030df708a5d1135a16f3aac325ca2cc11577672be751fd6bbaa039725c67e8",
-    "trusted.json": "1f5aac083edea7f9cc02504d9d63ad060a50da06c566bdc39e73c0f06b431509",
-    "signatures.json": "b194bba67dfbc8fc2b9b2ff6e7382c740fec50d70a1f5b0a55d6c5869a601f95"
-  }
+"version": 11
 }
