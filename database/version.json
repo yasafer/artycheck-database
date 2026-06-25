@@ -1,9 +1,9 @@
 {
-  "version": 18,
-  "updatedAt": "2026-06-25T09:58:28.150Z",
+  "version": 19,
+  "updatedAt": "2026-06-25T09:59:51.729Z",
   "files": {
     "banned.json": "5dd571b13e6056e4dcd1d69b334678d5d37b58269727f69bc87c090f102f5040",
-    "trusted.json": "67d7409727868c618437689674cae5a671aef78383625438e0424e052c0e8475",
+    "trusted.json": "88c68a7bdf22a2a63d846b5091fd763b101dbac2fe54733a1f193d9ffea044d2",
     "signatures.json": "b5033aea8f585501d5cfd4ff46f106e6a346ec37bd5fe36f341fb76cf1051c56"
   }
 }
