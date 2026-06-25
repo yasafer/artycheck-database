@@ -274,7 +274,9 @@
     "catvisuals",
     "Linken Visuals",
     "Mytheria",
-    "Cat Visuals"
+    "Cat Visuals",
+    "ChatTime",
+    "ChatHelper"
   ],
   "hashes": []
 }
