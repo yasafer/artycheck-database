@@ -3,9 +3,13 @@
     "zergatul",
     "cheatutils",
     "baritone",
-    "freecam"
+    "freecam",
+    "meteordevelopment",
+    "meteorclient",
+    "triggerbot",
+    "liquidbounce",
+    "wurstclient"
   ],
-
   "manualReview": [
     "AxisAlignedBB",
     "func_174826_a",
@@ -14,21 +18,21 @@
     "func_226281_cx_",
     "func_174813_aQ",
     "func_213142_cg",
-
     "class_238",
     "method_5829",
     "method_23317",
     "method_23321",
     "method_5857",
-
     "dci",
     ".cD",
     ".cc().b",
     ".cH()",
     ".cD(",
-
     "isKeyDown",
     "KeyBinding",
-    "GLFW_KEY_"
+    "GLFW_KEY_",
+    "Reach",
+    "HitBox",
+    "Velocity"
   ]
 }
