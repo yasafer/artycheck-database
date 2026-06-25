@@ -1,6 +1,5 @@
 {
   "names": [
-    "InvMove",
     "GoProne",
     "StepUp",
     "Spawner Location",
@@ -30,7 +29,22 @@
     "Schematica",
     "Litematica",
     "TopkaAutoBuy",
-    "XorekAuto"
+    "XorekAuto",
+    "Wurst",
+    "Aristois",
+    "Impact",
+    "Inertia",
+    "LiquidBounce",
+    "Meteor",
+    "BleachHack",
+    "RusherHack",
+    "Doomsday",
+    "Expensive",
+    "MoonHack",
+    "Vape",
+    "Vape Lite",
+    "Meteor Plus",
+    "Meteor Rejects"
   ],
   "hashes": []
 }
