@@ -8,7 +8,10 @@
     "meteorclient",
     "triggerbot",
     "liquidbounce",
-    "wurstclient"
+    "wurstclient",
+    "net/java/m",
+    "net/java/h",
+    "64FV7P4H2NO7Q"
   ],
   "manualReview": [
     "AxisAlignedBB",
