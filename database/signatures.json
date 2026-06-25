@@ -32,7 +32,6 @@
     "KeyBinding",
     "GLFW_KEY_",
     "Reach",
-    "HitBox",
     "Velocity"
   ]
 }
