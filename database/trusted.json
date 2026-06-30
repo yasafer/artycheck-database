@@ -293,7 +293,8 @@
         "opponentarmorindicator",
         "serverpack priority",
         "TapeMouse",
-        "fullbrightnesstoggle"
+        "fullbrightnesstoggle",
+        "luminar-0.5.0-holyworld"
     ],
     "hashes": []
 }
