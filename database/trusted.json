@@ -292,7 +292,8 @@
         "waypoints",
         "opponentarmorindicator",
         "serverpack priority",
-        "TapeMouse"
+        "TapeMouse",
+        "fullbrightnesstoggle"
     ],
     "hashes": []
 }
