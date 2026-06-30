@@ -291,7 +291,8 @@
         "whoami",
         "waypoints",
         "opponentarmorindicator",
-        "serverpack priority"
+        "serverpack priority",
+        "TapeMouse"
     ],
     "hashes": []
 }
