@@ -1,6 +1,6 @@
 {
-    "version": 26,
-    "updatedAt": "2026-06-30T20:42:04.000Z",
+    "version": 27,
+    "updatedAt": "2026-06-30T20:42:20.000Z",
     "files": {
         "banned.json": "5dd571b13e6056e4dcd1d69b334678d5d37b58269727f69bc87c090f102f5040",
         "trusted.json": "8229264ce4add379deddb190aeddb7a764923b4f327cde543c9b646c18f3ae9c",
